@@ -1,0 +1,32 @@
+<users>
+     <user id="1">
+          <realname>Mike</realname>
+          <nickname>Big Mike</nickname>
+          <login>mike</login>
+          <chips>632409</chips>
+     </user>
+     <user id="2">
+          <realname>CPU</realname>
+          <nickname>CPU 4</nickname>
+          <login>4</login>
+          <chips>0</chips>
+     </user>
+     <user id="3">
+          <realname>CPU</realname>
+          <nickname>CPU 1</nickname>
+          <login>1</login>
+          <chips>651322</chips>
+     </user>
+     <user id="4">
+          <realname>CPU</realname>
+          <nickname>CPU 2</nickname>
+          <login>2</login>
+          <chips>0</chips>
+     </user>
+     <user id="5">
+          <realname>CPU</realname>
+          <nickname>CPU 3</nickname>
+          <login>3</login>
+          <chips>0</chips>
+     </user>
+</users>
